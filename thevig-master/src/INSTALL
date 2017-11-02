@@ -1,0 +1,9 @@
+Building TheVig
+
+See doc/readme-qt.rst for instructions on building TheVig QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TheVig.
+
+See doc/build-*.txt for instructions on building TheVigd,
+the intended-for-services, no-graphical-interface, reference
+implementation of TheVig.
